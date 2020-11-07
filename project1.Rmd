@@ -1,6 +1,6 @@
 ---
 title: "test"
-author: "Dr. Aline Coutinho"
+author: "Student"
 date: "07/11/2020"
 output: pdf_document
 ---
